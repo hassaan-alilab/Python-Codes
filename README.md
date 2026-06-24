@@ -70,3 +70,4 @@ for i in range(1, len + 1):
     stars = "*" * i
     print(space + stars)
 ```
+#this repo contains list and tuples with practice questions and method that you need to work on
