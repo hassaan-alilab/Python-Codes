@@ -71,3 +71,4 @@ for i in range(1, len + 1):
     print(space + stars)
 ```
 #this repo contains list and tuples with practice questions and method that you need to work on
+#Sets & dictionary everything you need to kbnow about these things and there methods and some practice questions
